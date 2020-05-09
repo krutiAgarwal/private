@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Loan Department" duration-ms="14" started-at="2020-04-21T09:58:29Z" finished-at="2020-04-21T09:58:29Z">
+    <groups>
+    </groups>
+    <test name="Personal loan" duration-ms="14" started-at="2020-04-21T09:58:29Z" finished-at="2020-04-21T09:58:29Z">
+      <class name="test.testing">
+        <test-method status="PASS" signature="beforeTestSuiteExecution()[pri:0, instance:test.testing@7ac7a4e4]" name="beforeTestSuiteExecution" is-config="true" duration-ms="5" started-at="2020-04-21T15:28:29Z" finished-at="2020-04-21T15:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestSuiteExecution -->
+        <test-method status="PASS" signature="beforeTestExecution()[pri:0, instance:test.testing@7ac7a4e4]" name="beforeTestExecution" is-config="true" duration-ms="0" started-at="2020-04-21T15:28:29Z" finished-at="2020-04-21T15:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestExecution -->
+        <test-method status="PASS" signature="testExecution()[pri:0, instance:test.testing@7ac7a4e4]" name="testExecution" duration-ms="4" started-at="2020-04-21T15:28:29Z" finished-at="2020-04-21T15:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExecution -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.testing@7ac7a4e4]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-04-21T15:28:29Z" finished-at="2020-04-21T15:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.testing@7ac7a4e4]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-04-21T15:28:29Z" finished-at="2020-04-21T15:28:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.testing -->
+    </test> <!-- Personal loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
